@@ -1,1 +1,2 @@
 # simplifyMusicPlayer
+做一个类似于网页版的网易云音乐网站
